@@ -223,9 +223,3 @@ Possible extensions include:
 Engineering / SQL Portfolio Project
 
 ---
-
-## 📌 Resume Description
-
-**Engineering Project Feasibility & Cost Analysis | MySQL**
-
-> Developed a MySQL-based analysis of 3,245 engineering projects to evaluate project feasibility, cost exposure, risk, resource allocation, environmental impact, and historical cost deviation; performed portfolio segmentation and multi-factor management-review analysis.
